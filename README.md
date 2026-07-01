@@ -8,13 +8,12 @@ This repository contains the VLSI concepts I refreshed during my internship at N
 - Basic Logic Gates
 - Multiplexers
 - Demultiplexers
-- Encoders
 - Decoders
 - Adders
 - Flip-Flops
 - Counters
 - Registers
-- Finite State Machines (if covered)
+- ALUs
 
 ## Tools Used
 - Xilinx Vivado
@@ -24,7 +23,6 @@ This repository contains the VLSI concepts I refreshed during my internship at N
 ## Repository Structure
 - Verilog source codes
 - Testbenches
-- Vivado simulation waveforms
-- Notes
+- Simulated report
 
 This repository serves as my learning record and reference for Digital Design and VLSI concepts.
